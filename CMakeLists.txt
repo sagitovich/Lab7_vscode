@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.15)    # установка версии cmake
+cmake_minimum_required(VERSION 3.25)    # установка версии cmake
 project(lab7_cmake)
 
 set(CMAKE_CXX_STANDARD 17)              # установка стандарта языка
