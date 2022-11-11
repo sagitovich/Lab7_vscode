@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.23)    # установка версии cmake
 
-project(cmake_test_vscode)
+project(cmake_vscode)
 
 set(CMAKE_CXX_STANDARD 17)              # установка стандарта языка
 
